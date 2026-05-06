@@ -50,3 +50,4 @@
 - `.github/copilot-instructions.md` — внутренняя инструкция для Copilot.
 # calc
 # cakc212
+# cakc212
