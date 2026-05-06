@@ -49,3 +49,4 @@
 - `.vscode/tasks.json` — задача для запуска из VS Code.
 - `.github/copilot-instructions.md` — внутренняя инструкция для Copilot.
 # calc
+# cakc212
